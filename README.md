@@ -1,8 +1,3 @@
-# overview
-
-[Aerocene.org](https://aerocene.org) is the main home for the entire project. Visit this site to watch videos, see upcoming events, and subscribe to the newsletter.  
-Aerocene uses github to track versions of project instructions, code, and lists of materials.  
-
 ## What is Aerocene?
 
 From [aerocene.org](https://aerocene.org):
@@ -14,13 +9,15 @@ Aerocene is a transdisciplinary artistic project, an invitation to shape a perio
 
 ## How can I participate?
 
+Visit [Aerocene.org](https://aerocene.org) -- the main home for the entire project -- to watch videos, see upcoming events, and subscribe to the newsletter. 
+
 **Fly an Aerocene Explorer in Argentina**
 
 * _coming later in 2017_ [aerocene.org/participate](https://aerocene.org/participate)
 
 **Collaborate on the Aerocene Explorer**
 
-* https://github.com/aerocene/explorer
+* Aerocene uses [this repo](aerocene/explorer) to track versions of project instructions, code, and lists of materials. 
 
 **Social Media**
 
