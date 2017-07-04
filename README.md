@@ -18,7 +18,7 @@ Aerocene is a transdisciplinary artistic project, an invitation to shape a perio
 
 * _coming later in 2017_ [aerocene.org/participate](https://aerocene.org/participate)
 
-Collaborate on the Aerocene Explorer
+**Collaborate on the Aerocene Explorer**
 
 * https://github.com/aerocene/explorer
 
