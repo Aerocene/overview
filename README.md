@@ -9,7 +9,7 @@ Aerocene is a transdisciplinary artistic project, an invitation to shape a perio
 
 ## How can I participate?
 
-Visit [Aerocene.org](https://aerocene.org) -- the main home for the entire project -- to watch videos, see upcoming events, and subscribe to the newsletter. 
+**Visit [Aerocene.org](https://aerocene.org)** -- the main home for the entire project -- to watch videos, see upcoming events, and subscribe to the newsletter. 
 
 **Fly an Aerocene Explorer in Argentina**
 
